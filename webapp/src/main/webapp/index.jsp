@@ -12,8 +12,8 @@
     <div class="grid-2">
         <div class="section-1">
             <i class="fas fa-code fa-5x white"></i>
-            <h2>sipnatech</h2>
-            <p>India</p>
+            <h2>mom</h2>
+            <p>Mother</p>
             <a href="#"><i class="fab fa-twitter"></i></a>
             <a href="#"><i class="fab fa-linkedin"></i></a>
             <a href="#"><i class="fab fa-github"></i></a>
