@@ -12,7 +12,7 @@
     <div class="grid-2">
         <div class="section-1">
             <i class="fas fa-code fa-5x white"></i>
-            <h2>aws</h2>
+            <h2>kims</h2>
             <p>Mother</p>
             <a href="#"><i class="fab fa-twitter"></i></a>
             <a href="#"><i class="fab fa-linkedin"></i></a>
